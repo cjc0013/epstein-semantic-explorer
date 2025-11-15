@@ -1,5 +1,5 @@
 # epstein-semantic-explorer
-Semantic clusters, entity extraction, and BM25 search across 9,666 public Congressional Epstein documents.
+Semantic clusters, entity extraction, and BM25 search across recently released Congressional Epstein documents.
 
 The full semantic dataset is hosted on Kaggle:
 
